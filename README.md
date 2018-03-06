@@ -12,3 +12,9 @@ This model can be used as a search engine that helps people find out their desir
 5. has typos
 5. has spacing issues
 ...
+
+## Dependencies
+
+* `Python` version 2.7 or higher
+* `Numpy` version 1.13.1 or higher
+* `Tensorflow` version 1.1.0 or higher
