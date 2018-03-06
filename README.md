@@ -10,7 +10,8 @@ This model can be used as a search engine that helps people find out their desir
 3. changed the order of the words in the document
 4. shortened words in the document
 5. has typos
-5. has spacing issues
+6. has spacing issues
+
 ...
 
 ## Dependencies
